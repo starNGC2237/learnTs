@@ -21,7 +21,6 @@ A repo to learn TypeScript.
 | [接口](https://github.com/JasonkayZK/typescript_learn/tree/5-interface) |                                                     |
 | [泛型](https://github.com/JasonkayZK/typescript_learn/tree/6-generic) |                                                     |
 | [贪吃蛇练习](https://github.com/JasonkayZK/typescript_learn/tree/greedy-snake) |                                                     |
-|                                                              |                                                     |
 
 
 
